@@ -1,67 +1,67 @@
-# Useful Resources for Developers
+# Geliştiriciler için Faydalı Kaynaklar
 
-A list of student-collated resources deemed to be useful for every developer and categorised. Andrei has a hand-picked list of his favourite resources which you can find [here](https://zerotomastery.io/resources?utm_source=github&utm_medium=resources).
+Her geliştirici için faydalı olduğu düşünülen ve kategorilere ayrılan, öğrenciler tarafından derlenen kaynakların bir listesi. Andrei'nin en sevdiği kaynakların özenle seçilmiş bir listesini burada bulabilirsiniz [here](https://zerotomastery.io/resources?utm_source=github&utm_medium=resources).
 
-## Table of Contents
+## İçindekiler
 
-- [**API**](API.md): A list of resources for learning how to use APIs.
+- [**API**](API.md): API'lerin nasıl kullanılacağını öğrenmeye yönelik kaynakların listesi.
 
-- [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Resources for tackling algorithms.
+- [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Algoritmalarla uğraşmaya yönelik kaynaklar.
 
-- [**Angular Resources**](Angular.md): A list of resources for learning Angular.
+- [**Angular Resources**](Angular.md): Angular öğrenmeye yönelik kaynakların listesi.
 
-- [**Arduino**](Arduino.md): A list of resources for the Arduino micro-controller.
+- [**Arduino**](Arduino.md): Arduino mikrodenetleyicisi için kaynakların listesi.
 
-- [**Articles**](DevelopmentArticles.md): General articles page on web development.
+- [**Articles**](DevelopmentArticles.md): Web geliştirmeyle ilgili genel makaleler sayfası.
 
-- [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
+- [**CSS Resources**](CSSResources.md): CSS öğrenmeye yönelik kaynakların listesi.
 
-- [**Design Patterns Resources**](design-patterns.md) : A List of Resources for Design Patterns 
+- [**Design Patterns Resources**](design-patterns.md) : Tasarım Desenleri İçin Kaynak Listesi. 
 
-- [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
+- [**Cheat Sheets**](cheatSheets.md): İşlerin hızlı ve kolay bir şekilde nasıl yapılacağını arayanlar veya bir şeyi unuttuysanız, başka yere bakmayın!
 
-- [**Cloud**](Cloud.md): Cloud Learning Resources to kickstart your career.
+- [**Cloud**](Cloud.md): Kariyerinizi başlatmak için Bulut Öğrenim Kaynakları.
 
-- [**Free Online Courses**](FreeOnlineCourses.md): Free to attend online courses, including [MOOCs (massive open online courses)](https://en.wikipedia.org/wiki/Massive_open_online_course).
+- [**Free Online Courses**](FreeOnlineCourses.md): Aşağıdakiler de dahil olmak üzere çevrimiçi kurslara katılmak ücretsizdir: [MOOCs (massive open online courses)](https://en.wikipedia.org/wiki/Massive_open_online_course).
 
-- [**Game Development Resources**](GameDev.md): A page which lists out the resources which helps you go from zero to mastery in game development.
+- [**Game Development Resources**](GameDev.md): Oyun geliştirmede sıfırdan ustalığa ulaşmanıza yardımcı olacak kaynakların listelendiği bir sayfa.
 
-- [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
+- [**General Resources for Learning Web Development**](generalResources.md): Genel olarak web geliştirme ve kodlamayı öğrenmek için çoğunlukla ücretsiz kaynaklar içeren bir sayfa.
 
-- [**Git and GitHub**](Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
+- [**Git and GitHub**](Using_Git_and_GitHub.md): Git ve GitHub kullanımına ilişkin kaynaklar sayfası.
 
-- [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
+- [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): İş piyasasına hazırlanmaya ilişkin kaynakların bulunduğu bir sayfa.
 
-- [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
+- [**JavaScript Resources**](JavaScript.md): JavaScript öğrenmeye yönelik kaynakların listesi.
 
-- [**Junior to Senior Developer Roadmap Resources**](JuniorToSeniorCourse.md): Resources mentioned in the Zero to Mastery course.
+- [**Junior to Senior Developer Roadmap Resources**](JuniorToSeniorCourse.md): Sıfırdan Ustalığa kursunda bahsedilen kaynaklar.
 
-- [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system.
+- [**Mobile App Development**](MobileAppDevelopment.md): Mobil uygulama geliştirme için yararlı kaynakların seçilmiş bir listesi (Android, iOS, Windows veya başka herhangi bir mobil sistem için.
 
-- [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
+- [**Podcasts**](Podcasts.md): Kodlama, tasarım, erişilebilirlik, JavaScript ve Düşünce Yapısı/Kişisel Gelişim gibi konuları kapsayan çeşitli podcast'ler.
 
-- [**Practice Resources**](PracticeResources.md): A list of exercises and gamified resources for web development.
+- [**Practice Resources**](PracticeResources.md): Web geliştirme için alıştırmaların ve oyunlaştırılmış kaynakların listesi.
 
-- [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
+- [**Programming Books**](Programming_Books.md): Hem ücretsiz hem de ücretli versiyonları olan kapsamlı programlama kitaplarının bir listesini içerir.
 
-- [**Python Resources**](Python.md): A list of resources for learning Python.
+- [**Python Resources**](Python.md): Python öğrenmeye yönelik kaynakların listesi.
 
-- [**Raspberry Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
+- [**Raspberry Pi**](RaspberryPi.md): Raspberry Pi için kaynaklar.
 
-- [**Search Engine Optimization**](SearchEngineOptimization.md): A list of resources for learning Search Engine Optimization(SEO).
+- [**Search Engine Optimization**](SearchEngineOptimization.md): Arama Motoru Optimizasyonunu (SEO) öğrenmeye yönelik kaynakların listesi.
 
-- [**Unix**](Unix.md): Resources for Unix systems (Linux, MacOS, etc.).
+- [**Unix**](Unix.md): Unix sistemleri için kaynaklar (Linux, MacOS, ve benzeri...).
 
-- [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
+- [**Web Design Resources**](WebDesignResources.md): Web tasarımına yönelik kaynakların bulunduğu bir sayfa.
 
-- [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
+- [**Web Development Tools**](WebDevTools.md): Bir dizi ücretsiz web geliştirme aracının listelendiği bir sayfa.
 
-- [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
+- [**YouTube Channels**](YouTubeChannels.md): Web geliştirme, tasarım, tarih, bilgisayar korsanlığı ve Bilgisayar Bilimi gibi geniş konuları kapsayan, programlama hakkında her şeyi öğrenebileceğiniz YouTube kanallarının listesi (CS).
 
-## Contributing
+## Katkı
 
-- You are always welcome to contribute to this project, kindly visit our [**Contributor's Guide**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) before opening a pull request.
+- Bu projeye katkıda bulunmaktan her zaman memnuniyet duyarız, lütfen ziyaret edin [**Katılımcı Kılavuzu**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) Bir çekme isteği açmadan önce.
 
-- First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](https://github.com/zero-to-mastery/resources/blob/master/Contributing_to_GitHub.md).
+- Açık kaynağa ilk kez mi katkıda bulunuyorsunuz? Mükemmel! Süreç hakkında daha fazlasını okuyun [**GitHub'a katkıda bulunmak**](https://github.com/zero-to-mastery/resources/blob/master/Contributing_to_GitHub.md).
 
-- [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
+- [**Katkıda Bulunanlar Listesi**](CONTRIBUTORS.md): Bu açık kaynaklı projeye katkıda bulunan herkesin GitHub kullanıcı adlarını gösteren bir sayfa! Katkıda bulunduysanız kendinizi eklediğinizden ve bir çekme isteği gönderdiğinizden emin olun.
